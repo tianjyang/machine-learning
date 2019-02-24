@@ -1,0 +1,4 @@
+# Virtual environment
+/machine-learning/
+.DS_Store
+.python-version
